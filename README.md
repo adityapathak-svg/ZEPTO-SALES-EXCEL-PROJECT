@@ -33,7 +33,7 @@ Chart's Metrics:
    Objective: Evaluate how the age or type of outlet establishment influences total sales.
    Chart Type: Line Chart.
    
-7. Sales by Outlet Size:
+6. Sales by Outlet Size:
   Objective: Analyze the correlation between outlet size and total sales.
   Chart Type: Donut/Pie Chart.
 
